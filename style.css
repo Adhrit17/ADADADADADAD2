@@ -1,0 +1,22 @@
+body{
+color: rgb(112, 151, 151);
+background-color: aquamarine;
+}
+.heading
+{width:80%;
+font-size: 23px;
+
+
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{color:rgb(0, 0, 71);
+
+
+}
+
+#camera
+{border: 2px dashed darkturquoise;
+width: 350px;
+height: 300px;
+
+}
